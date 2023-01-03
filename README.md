@@ -7,7 +7,7 @@
 ## Descripción de la app ✍
 ----
 ##### Ventana principal
-imagen principal
+![image](https://user-images.githubusercontent.com/76167482/210395585-e2d03f3c-a825-4f02-b27d-3943d5114ac7.png)
 
 Acá tendremos los campos para realizar la selección del detalle del ingreso o egreso, también podremos seleccionar si ese input es un ingreso o un egreso. En la parte mas abajo tendremos casilleros donde podremos ingresar el monto del ingreso o del egreso dependiendo de que estemos haciendo y alguna observación o descripción que queramos agregar, seguido a esto tenemos un casillero de mercado pago para hacer referencia a si esta seleccionado se trata de un pago online o por tarjeta y si esta sin seleccionar es un pago en efectivo. Por ultimo tenemos el botón de guardar, el cual nos guarda en la base de datos nuestros registros.
 
@@ -16,19 +16,19 @@ Acá tendremos los campos para realizar la selección del detalle del ingreso o 
 > Antes de continuar se debe una vez iniciado el programa en la pantalla principal, debemos presionar en archivo y luego en crear base de datos, luego seguidamente ir en el mismo lugar archivo>Ver lista detalles, y aquí agregar algún detalle, para luego volver a la pantalla principal y poder comenzar a agregar registros a la base de datos local.
 
 #### ✅ Ventana principal menú de opciones
-imagen menús
+![image](https://user-images.githubusercontent.com/76167482/210395692-c286c28e-8e6f-43cd-abaf-d76a4348c46b.png)
 
 Acá tendremos varias opciones para elegir, primeramente en el archivo tenemos la primer opción que es:
 
 ##### ✅ Ver registros del día
-imagen
+![image](https://user-images.githubusercontent.com/76167482/210395848-2aa146d3-e6ae-4839-b63e-8bfbf2f1f22c.png)
 
 Acá se nos abre la venta que vemos en pantalla en la imagen de acá arriba, en esta tenemos un listado con los registros que se han realizado en el día, acá podemos seleccionar el que queramos y presionar en el botón eliminar para borrarlo permanentemente de la base de datos en caso de habernos equivocado
 
 Luego la segunda opción de archivo es:
 
 ##### ✅ Ver lista detalles
-imagen
+![image](https://user-images.githubusercontent.com/76167482/210395898-5d2427cd-3e8b-4b3e-a213-4c6b27946920.png)
 
 Acá se nos abre la venta que nos permite ver el listado de detalles para agregar a cada registro, en esta podremos seleccionar el que queramos de esta tabla y presionar en eliminar para que se borre permanentemente de la base de datos, también podemos ingresar un nuevo detalle en el casillero y guardarlo mediante el botón agregar detalle.
 
@@ -55,7 +55,7 @@ Con esta opción lo que hacemos es generar un archivo Excel con el reporte del d
 Seguidamente tenemos la opción de:
 
 ##### ✅ Buscar registros por fecha
-imagen
+![image](https://user-images.githubusercontent.com/76167482/210395955-dfb16169-5314-4909-8d0b-27293c016b15.png)
 
 Con esta opción lo que tenemos es que se nos abrirá una ventana con un selector de calendario para elegir la fecha que queremos visualizar, seguidamente tendemos una tabla que nos mostrará los registros de dicha fecha. Pero para ver estos registros primeramente tenderemos que primero seleccionar la fecha que queremos y luego presionar el botón de Buscar, luego si lo deseamos también podremos generar el reporte de esa fecha con el botón de generar reporte.
 
